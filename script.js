@@ -5,7 +5,7 @@ let photosArray = [];
 
 // Unsplash API
 const count = 10;
-const apiKey = 'xkJd9SEBC1xeSHKAtxllWyOwflftOtakYbHToi9uuB4';
+const apiKey = 'APIkey';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 // Helper Function to Set Attributes on DOM Elements
